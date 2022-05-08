@@ -1,16 +1,4 @@
-"""
-CNN with Movie Review dataset
 
-Reference:
-Natual Language processing in action
-
-dataset 
-https://ai.stanford.edu/~amaas/data/sentiment/
-
-预处理' word2vector
-https://zhuanlan.zhihu.com/p/63852350?utm_source=wechat_session&utm_medium=social&utm_oi=743111959821430784&utm_content=first
-
-"""
 from data.utils import *
 from data.visualize import *
 from network.model import *
